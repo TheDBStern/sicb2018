@@ -1,0 +1,16 @@
+gene_id	transcript_id(s)	length	effective_length	expected_count	TPM	FPKM
+rdgA	rdgA_3	0.0	0.0	0.0	0.0	0.0
+rdgB	rdgB_24,rdgB_25,rdgB_26,rdgB_27,rdgB_84,rdgB_85	10840.0	9943.02	106.74	1.7	4.64
+LWS	LWS_17,LWS_18	2932.0	2632.98	15563.0	224.55	614.62
+SWS	SWS_2	2270.0	2120.49	236.0	2.02	5.53
+MWS	MWS_2	1373.0	1223.49	88.0	1.31	3.58
+peropsin	peropsin_3,peropsin_4	1717.0	1418.11	36.0	0.61	1.68
+Arr1	Arr1_15,Arr1_16,Arr1_17,Arr1_18	7595.0	6996.96	435.91	4.88	13.34
+Arr2	Arr2_10,Arr2_11,Arr2_12,Arr2_38	4141.0	3543.69	8216.93	180.39	493.73
+Gprk1	Gprk1_7	3241.0	3091.49	169.0	0.99	2.72
+Gprk2	Gprk2_17,Gprk2_18	490.0	340.56	10.0	0.53	1.46
+Gq_alpha	Gq_alpha_11,Gq_alpha_12,Gq_alpha_13,Gq_alpha_14,Gq_alpha_81	19024.0	18276.45	609.01	3.7	10.15
+PKC	PKC_12,PKC_13,PKC_14,PKC_15,PKC_16	6077.0	5329.48	111.88	1.95	5.34
+PLC	PLC_2,PLC_22,PLC_23,PLC_24	17693.0	17393.98	359.57	0.78	2.13
+trp	trp_6,trp_7,trp_8,trp_9,trp_10,trp_27,trp_28,trp_67,trp_68,trp_69,trp_70	10736.0	9988.45	321.0	2.06	5.62
+trpL	trpL_15,trpL_16	9726.0	9426.98	46.17	0.22	0.59

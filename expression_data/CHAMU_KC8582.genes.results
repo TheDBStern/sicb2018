@@ -1,0 +1,13 @@
+gene_id	transcript_id(s)	length	effective_length	expected_count	TPM	FPKM
+rdgA	rdgA_2	304.0	156.91	7.0	1.03	4.85
+rdgB	rdgB_20,rdgB_21,rdgB_22,rdgB_23,rdgB_79,rdgB_80,rdgB_81,rdgB_82,rdgB_83	3582.0	2547.0	71.0	4.62	21.84
+rdgC	rdgC_4,rdgC_19	1085.0	789.81	37.0	2.83	13.38
+Gq_beta	Gq_beta_3	520.0	372.05	12.13	0.75	3.54
+LWS	LWS_15,LWS_16	1809.0	1513.09	282.0	6.82	32.21
+Arr1	Arr1_13,Arr1_14	806.0	511.03	14.0	1.41	6.65
+Arr2	Arr2_9	1743.0	1595.04	170.0	2.45	11.58
+Gprk1	Gprk1_6	1045.0	897.04	20.45	0.52	2.48
+Gprk2	Gprk2_5,Gprk2_6,Gprk2_7	1190.0	1042.04	0.1	0.0	0.01
+Gq_alpha	Gq_alpha_10,Gq_alpha_48,Gq_alpha_69	3049.0	2901.04	94.15	0.75	3.53
+PKC	PKC_8,PKC_9,PKC_10,PKC_11,PKC_51	3054.0	2314.79	55.0	3.14	14.81
+PLC	PLC_19,PLC_20,PLC_21,PLC_67,PLC_68	1665.0	1073.47	25.0	2.23	10.55

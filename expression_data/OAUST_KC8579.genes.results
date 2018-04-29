@@ -1,0 +1,13 @@
+gene_id	transcript_id(s)	length	effective_length	expected_count	TPM	FPKM
+rdgA	rdgA_4	1186.0	1045.11	17.0	0.15	0.32
+rdgB	rdgB_44,rdgB_45,rdgB_46,rdgB_47,rdgB_48,rdgB_95,rdgB_96,rdgB_97,rdgB_98,rdgB_99	27086.0	25818.0	312.53	1.51	3.13
+rdgC	rdgC_9	2702.0	2561.11	166.27	0.62	1.28
+LWS	LWS_38	1344.0	1203.11	24.0	0.19	0.39
+peropsin	peropsin_9	0.0	0.0	0.0	0.0	0.0
+Arr1	Arr1_31,Arr1_32,Arr1_33	1267.0	985.23	7.0	0.14	0.29
+Arr2	Arr2_24	1697.0	1556.11	19.0	0.12	0.24
+Gprk1	Gprk1_18,Gprk1_19	4385.0	4103.22	97.6	0.59	1.22
+Gq_alpha	Gq_alpha_28,Gq_alpha_29,Gq_alpha_30,Gq_alpha_53,Gq_alpha_54,Gq_alpha_74,Gq_alpha_75	14255.0	13268.78	714.02	2.74	5.69
+PKC	PKC_24,PKC_25,PKC_26,PKC_27,PKC_28,PKC_54	11045.0	10340.57	399.77	1.81	3.77
+PLC	PLC_7,PLC_37,PLC_38,PLC_39,PLC_40,PLC_73	8627.0	7781.71	244.83	1.47	3.02
+trpL	trpL_34	0.0	0.0	0.0	0.0	0.0

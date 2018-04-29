@@ -1,0 +1,17 @@
+gene_id	transcript_id(s)	length	effective_length	expected_count	TPM	FPKM
+rdgA	rdgA_1	0.0	0.0	0.0	0.0	0.0
+rdgB	rdgB_5,rdgB_6,rdgB_7,rdgB_8,rdgB_9,rdgB_10,rdgB_11,rdgB_71,rdgB_72,rdgB_73,rdgB_74,rdgB_75,rdgB_76	31449.0	29678.52	139.5	1.8	5.74
+Gq_beta	Gq_beta_0	778.0	630.46	116.03	4.78	15.21
+LWS	LWS_1,LWS_2,LWS_3,LWS_4,LWS_5,LWS_6,LWS_7,LWS_8,LWS_9,LWS_51,LWS_52	4304.0	2681.86	41652.14	4538.16	14432.16
+SWS	SWS_0	2273.0	2125.46	1602.76	19.6	62.32
+MWS	MWS_0	1408.0	1260.46	217.0	4.47	14.23
+peropsin	peropsin_0,peropsin_1	1486.0	1338.46	16.6	0.32	1.02
+Arr1	Arr1_3,Arr1_4,Arr1_5,Arr1_6,Arr1_7,Arr1_8,Arr1_9,Arr1_51,Arr1_52,Arr1_57	8201.0	7021.08	5844.66	222.47	707.46
+Arr2	Arr2_1,Arr2_2,Arr2_3,Arr2_4	1830.0	1387.86	11944.14	1403.07	4462.04
+Gprk1	Gprk1_3	1137.0	989.46	149.0	3.91	12.44
+Gprk2	Gprk2_1,Gprk2_14	1464.0	1316.46	129.49	2.56	8.13
+Gq_alpha	Gq_alpha_1,Gq_alpha_2,Gq_alpha_3,Gq_alpha_4,Gq_alpha_5,Gq_alpha_46,Gq_alpha_47,Gq_alpha_66	18292.0	17259.22	4162.42	45.19	143.73
+PKC	PKC_1,PKC_2,PKC_3,PKC_50	6741.0	6150.84	196.37	3.99	12.71
+PLC	PLC_13,PLC_14,PLC_65	6311.0	5868.4	2607.11	20.8	66.13
+trp	trp_0,trp_1,trp_2,trp_22,trp_23,trp_24,trp_34,trp_35,trp_57,trp_58,trp_59,trp_60	17522.0	15899.22	2843.22	32.53	103.51
+trpL	trpL_1,trpL_2,trpL_3,trpL_4,trpL_5,trpL_6	9885.0	8999.78	1978.54	31.42	99.9
