@@ -1,8 +1,8 @@
 # sicb2018
 
 Species Key
-CCRYP - Cambarus cryptodytes
-CDUBI - Cambarus dubius
+CCRYP - Cambarus cryptodytes\n
+CDUBI - Cambarus dubius\n
 CGRAY - Cambarus graysoni
 CHAMU - Cambarus hamulatus
 CNERT - Cambarus nerterius
