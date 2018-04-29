@@ -1,4 +1,5 @@
-# sicb2018
+# Sequence alignments and expression data for:  
+#'Phototransduction gene expression and evolution in cave and surface crayfish
 
 Species Key  
 CCRYP - Cambarus cryptodytes  
